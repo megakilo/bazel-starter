@@ -1,0 +1,4 @@
+build -c opt
+build --cxxopt='-std=c++17'
+build --cxxopt='-O2'
+build --cxxopt='-static'
